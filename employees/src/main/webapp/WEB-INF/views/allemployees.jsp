@@ -17,7 +17,6 @@
 
 
 <body>
-<<<<<<< HEAD
 	<h2>All Employees Details - 2019-to-2020</h2>	
 	<table>
 		<tr>
@@ -26,7 +25,6 @@
 		<c:forEach items="${employees}" var="employee">
 	<tr>
 			<td>${Shash}</td>
->>>>>>> fc291f71b70cba2ee9e1a219be4f78020637323c
 			<td>${09/09/2019}</td>
 			<td>${kanika}</td>
 			<td>${02/03/2019}</td>
