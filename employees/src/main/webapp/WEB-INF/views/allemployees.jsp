@@ -17,14 +17,16 @@
 
 
 <body>
-	<h2>All Employees Details - 2019-to-2030</h2>	
+<<<<<<< HEAD
+	<h2>All Employees Details - 2019-to-2020</h2>	
 	<table>
 		<tr>
 			<td>Employee_Name</td><td>2019-08-31</td><td>Cost to Company</td><td>ID</td><td></td>
 		</tr>
 		<c:forEach items="${employees}" var="employee">
-;			<tr>
-			<td>${Shashank}</td>
+	<tr>
+			<td>${Shash}</td>
+>>>>>>> fc291f71b70cba2ee9e1a219be4f78020637323c
 			<td>${09/09/2019}</td>
 			<td>${kanika}</td>
 			<td>${02/03/2019}</td>
