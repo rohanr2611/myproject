@@ -17,6 +17,7 @@
 
 
 <body>
+<<<<<<< HEAD
 	<h2>All Employees Details - 2019-to-2020</h2>	
 	<table>
 		<tr>
